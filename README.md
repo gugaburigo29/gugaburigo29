@@ -4,4 +4,6 @@ My name is Luís Gustavo Búrigo from Brazil (🇧🇷). I work with front-end s
 
 In my free time I like to play games 🎮, to watch series,  to listen and producer eletronic music's (House, Tech House).
 
+<img alt="stats-vinicius" src="https://github-readme-stats.vercel.app/api?username=gugaburigo29&show_icons=true" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/lu%C3%ADs-gustavo-burigo-alexandre-479202158/)
