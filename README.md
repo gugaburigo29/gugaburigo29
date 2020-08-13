@@ -5,7 +5,7 @@ My name is Luís Gustavo Búrigo from Brazil (🇧🇷). I work with front-end s
 In my free time I like to play games 🎮, to watch series,  to listen and producer eletronic music's, and study new technologies to apply personal projects.
 
 <center>
-  <table>
+  <table style="border: none;">
     <tr>
         <td><img style="max-width: 100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugaburigo29&hide=html&layout=compact&theme=default" /></td>
         <td><img style="max-width: 100%" width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gugaburigo29&theme=default" /></td>
