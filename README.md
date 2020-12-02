@@ -1,6 +1,6 @@
 ### Hello world! 😁
 
-My name is Luís Gustavo Búrigo from Brazil (🇧🇷). I work with front-end since 2018, however, study on development since 2013 in a programming course and currently I'm Full-Stack at [Auditus](https://auditustec.com.br) and [Justus](https://www.sistemajustus.com.br).
+My name is Luís Gustavo Búrigo from Brazil (🇧🇷). I work with front-end since 2018, however, study on development since 2013 in a programming course and currently I'm Full-Stack at [Infinitybase](https://infinitybase.app/).
 
 In my free time I like to play games 🎮, to watch series,  to listen and producer eletronic music's, and study new technologies to apply personal projects.
 
